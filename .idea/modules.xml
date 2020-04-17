@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shopping/shopping.iml" filepath="$PROJECT_DIR$/shopping/shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shoppingSystem.iml" filepath="$PROJECT_DIR$/.idea/shoppingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shpping-system/shpping-system.iml" filepath="$PROJECT_DIR$/shpping-system/shpping-system.iml" />
+    </modules>
+  </component>
+</project>

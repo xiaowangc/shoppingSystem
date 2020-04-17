@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="myorm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shpping-system/web/WEB-INF/lib/myorm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shpping-system/web/WEB-INF/lib/mysql-connector-java-8.0.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
